@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /assets/Duan_Qichao_CV.pdf
+Disallow: /assets/Duan_Qichao_CV_2026.pdf
+Disallow: /qcduan.github.io/assets/Duan_Qichao_CV.pdf
+Disallow: /qcduan.github.io/assets/Duan_Qichao_CV_2026.pdf
+
+Sitemap: https://duanqichao888.github.io/qcduan.github.io/sitemap.xml
+Sitemap: https://duanqichao888.github.io/sitemap.xml
